@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello World! I'm Ludimilla Ramires</div>  
+### <div align="center"> 👋 Hello World! I'm Ludimilla Ramires</div>  
   
 
 - 🔭 Currently pursuing a degree in Systems Analysis and Development  
