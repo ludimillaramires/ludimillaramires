@@ -57,6 +57,6 @@
 
 ## Github Stats    
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ludimillaramires&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <br/> 
